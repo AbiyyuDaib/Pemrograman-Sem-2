@@ -1,0 +1,10 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\bin\Debug\poly 2.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\bin\Debug\poly 2.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\bin\Debug\poly 2.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\obj\Debug\poly 2.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\obj\Debug\poly 2.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\obj\Debug\poly 2.csproj.CopyComplete
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\obj\Debug\poly 2.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly 2\poly 2\obj\Debug\poly 2.pdb

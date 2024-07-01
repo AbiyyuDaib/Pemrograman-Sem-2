@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\bin\Debug\poly printer 2.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\bin\Debug\poly printer 2.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\bin\Debug\poly printer 2.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\obj\Debug\poly printer 2.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\obj\Debug\poly printer 2.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\obj\Debug\poly printer 2.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism 2\poly printer 2\poly printer 2\obj\Debug\poly printer 2.pdb
