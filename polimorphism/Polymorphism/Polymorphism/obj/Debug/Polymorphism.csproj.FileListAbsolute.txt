@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\polimorphism\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
