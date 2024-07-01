@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\bin\Debug\Inharitence.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\bin\Debug\Inharitence.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\bin\Debug\Inharitence.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\obj\Debug\Inharitence.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\obj\Debug\Inharitence.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\obj\Debug\Inharitence.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\InHaritence\Inharitence\Inharitence\obj\Debug\Inharitence.pdb
