@@ -1,0 +1,10 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\bin\Debug\abs.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\bin\Debug\abs.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\bin\Debug\abs.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\obj\Debug\abs.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\obj\Debug\abs.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\obj\Debug\abs.csproj.CopyComplete
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\obj\Debug\abs.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\abstraction\abs\abs\obj\Debug\abs.pdb
