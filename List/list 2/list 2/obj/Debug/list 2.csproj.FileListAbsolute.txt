@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\bin\Debug\list 2.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\bin\Debug\list 2.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\bin\Debug\list 2.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\obj\Debug\list 2.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\obj\Debug\list 2.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\obj\Debug\list 2.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\list 2\list 2\obj\Debug\list 2.pdb

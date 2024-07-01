@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\bin\Debug\LatArr.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\bin\Debug\LatArr.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\bin\Debug\LatArr.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\obj\Debug\LatArr.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\obj\Debug\LatArr.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\obj\Debug\LatArr.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\array\LatArr\LatArr\obj\Debug\LatArr.pdb

@@ -1,0 +1,7 @@
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\bin\Debug\ListArr.exe.config
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\bin\Debug\ListArr.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\bin\Debug\ListArr.pdb
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\obj\Debug\ListArr.csproj.AssemblyReference.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\obj\Debug\ListArr.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\obj\Debug\ListArr.exe
+C:\Users\abiyy\OneDrive\Documents\pemrograman\List\ListArr\ListArr\obj\Debug\ListArr.pdb
